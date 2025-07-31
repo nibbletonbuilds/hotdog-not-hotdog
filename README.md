@@ -3,7 +3,7 @@
 > Determines if a string is equal to "hot-dog". Nothing more, nothing less.
 
 ```js
-const isHotDog = require("is-hotdog");
+const is_hotdog = require("is-hotdog");
 
-isHotDog("hot-dog"); // true
-isHotDog("taco");    // false
+is_hotdog("hot-dog"); // true
+is_hotdog("taco");    // false
