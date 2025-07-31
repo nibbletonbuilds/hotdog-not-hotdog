@@ -1,13 +1,14 @@
 {
   "name": "hotdog-not-hotdog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Determines if a string is equal to \"hot-dog\". Nothing more, nothing less.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nibbleton D. Hamptor",
   "license": "ISC",
-  "packageManager": "pnpm@10.13.1"
+  "packageManager": "pnpm@10.13.1",
+  "private": false
 }
