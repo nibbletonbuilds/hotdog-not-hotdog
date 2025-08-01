@@ -1,6 +1,6 @@
 {
   "name": "hotdog-not-hotdog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Determines if a string is equal to \"hot-dog\". Nothing more, nothing less.",
   "main": "index.js",
   "scripts": {
