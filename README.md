@@ -1,4 +1,4 @@
-# is-hotdog
+# hotdog-not-hotdog
 
 > Determines if a string is equal to "hot-dog". Nothing more, nothing less.
 
